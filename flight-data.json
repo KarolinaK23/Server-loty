@@ -1,0 +1,31 @@
+[{
+        "departureDate": "22-01-2020",
+        "arrivalDate": "22-01-2020",
+        "seats": "100",
+        "price": "200"
+    },
+    {
+        "departureDate": "22-01-2020",
+        "arrivalDate": "22-01-2020",
+        "seats": "80",
+        "price": "100"
+    },
+    {
+        "departureDate": "23-03-2019",
+        "arrivalDate": "23-03-2019",
+        "seats": "220",
+        "price": "1000"
+    },
+    {
+        "departureDate": "17-03-2019",
+        "arrivalDate": "17-03-2019",
+        "seats": "120",
+        "price": "100"
+    },
+    {
+        "departureDate": "19-03-2019",
+        "arrivalDate": "19-03-2019",
+        "seats": "100",
+        "price": "450"
+    }
+]
